@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иван Сухоруков](https://up.htmlacademy.ru/htmlcss/40/user/2518377).
-* Наставник: `Неизвестно`.
+* Наставник:[Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
